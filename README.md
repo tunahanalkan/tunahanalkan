@@ -29,6 +29,9 @@ I am continuously improving my skills and learning new technologies.
   <a href="https://www.linkedin.com/in/tunahan-alkan-49b7833b8">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  
+  <a href="https://instagram.com/mr.4lkan">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </p>
-
 
