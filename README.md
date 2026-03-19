@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋 I'm Tunahan Alkan
 
-<!--
-**tunahanalkan/tunahanalkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Programming Student  
+💻 Frontend Developer (HTML, CSS, JavaScript)  
+🧠 Learning: C++, Python, SQL  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a first-year Computer Programming student at Erzincan Binali Yıldırım University.  
+I am passionate about frontend development and building user-friendly interfaces.  
+I am continuously improving my skills and learning new technologies.
+
+---
+
+## 🛠️ Technologies & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,mysql" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+![Tunahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tunahanalkan&show_icons=true)
+
+---
+## 📫 Contact
+<p>
+  <a href="https://www.linkedin.com/in/tunahan-alkan-49b7833b8">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+
